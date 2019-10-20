@@ -1,0 +1,15 @@
+// This file for VS Code autocomplete
+
+{
+  "compilerOptions": {
+    "target": "es6"
+  },
+  "exclude": [
+    "node_modules",
+    "build",
+    ".vscode"
+  ],
+  "include": [
+    "js/**/*"
+  ]
+}
